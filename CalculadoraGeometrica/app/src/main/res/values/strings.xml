@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Geometric Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="squareRectangle">Square / Rectangle</string>
+    <string name="triangle">Triangle</string>
+    <string name="circle">Circle</string>
+    <string name="shape">Geometric Form:</string>
+    <string name="base">Base</string>
+    <string name="height">Height</string>
+    <string name="radius">Radius</string>
+    <string name="result" />
+    <string name="calculate">Calculate</string>
+    <string name="nullField">This field is required!</string>
+    <string name="area">Area:</string>
+</resources>

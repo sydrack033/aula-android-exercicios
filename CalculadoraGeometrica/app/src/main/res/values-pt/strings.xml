@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora Geometrica</string>
+    <string name="action_settings">Configurações</string>
+    <string name="squareRectangle">Quadrado / Retângulo</string>
+    <string name="triangle">Triângulo</string>
+    <string name="circle">Circulo</string>
+    <string name="shape">Forma Geométrica:</string>
+    <string name="base">Base</string>
+    <string name="height">Altura</string>
+    <string name="radius">Raio</string>
+    <string name="result" />
+    <string name="nullField">Este campo é obrigatório!</string>
+    <string name="calculate">Calcular</string>
+    <string name="area">Área:</string>
+</resources>
